@@ -7,4 +7,4 @@ For example:
 http://mattkersley.com/responsive?google.com
 
 ## modification
-For aesethetic purposes, some things have been modified for this fork. All credits go to Matt Kersley for coding, design, etc. Thanks for letting us fork this!
+For aesthetic purposes, some things have been modified for this fork. All credits go to Matt Kersley for coding, design, etc. Thanks for letting us fork this!
