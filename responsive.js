@@ -5,7 +5,7 @@ function showLoader(id) {
   $('#' + id + ' img').fadeIn('slow');
 }
 
-//hdie loading graphic
+//hidee loading graphic
 function hideLoader(id) {
   $('#' + id + ' img').fadeOut('slow');
 }
